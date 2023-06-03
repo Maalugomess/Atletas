@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Atletas</string>
+
+    <string name="registration_title">Register a new athlete</string>
+    <string name="registration_name">Name</string>
+    <string name="registration_modality">Modality</string>
+    <string name="registration_salary">Salary</string>
+    <string name="registration_button">register athlete</string>
+    
+    <string name="historic">Historic</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "45880044819",
+    "project_id": "atletas-app",
+    "storage_bucket": "atletas-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45880044819:android:f8a73f7cad3047c18abee6",
+        "android_client_info": {
+          "package_name": "com.malu.atletas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45880044819-76c9c7ivl34ko8no2v5qlksb1bf0ef0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX8Tv_LN42X0ItVbe8tSO_Xsg9FQ959ng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45880044819-76c9c7ivl34ko8no2v5qlksb1bf0ef0l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
